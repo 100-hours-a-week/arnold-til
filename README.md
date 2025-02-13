@@ -9,4 +9,5 @@
 25.02.05 Blocking, Non-Blocking, Sync, Async([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-05.md))  
 25.02.06 동시성, 스케줄러, 병렬성([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-06.md))  
 25.02.11 공유 자원, Critical Section, Synchronization([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-11.md))  
-25.02.12 웹 기초와 응용([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-12.md))
+25.02.12 웹 기초와 응용([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-12.md))  
+25.02.13 인증헤더, JWT, OAuth([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-13.md))
