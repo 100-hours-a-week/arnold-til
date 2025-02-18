@@ -16,3 +16,5 @@
 25.02.14 JWT의 탈취([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-14.md))
 
 ### [2월 셋째주, 3주차]
+25.02.17 쿠키, 세션([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-17.md))
+25.02.18 웹 소켓([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-18.md))
