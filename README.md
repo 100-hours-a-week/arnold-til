@@ -12,9 +12,11 @@
 ### [2월 둘째주, 2주차]
 25.02.11 공유 자원, Critical Section, Synchronization([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-11.md))  
 25.02.12 웹 기초와 응용([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-12.md))  
-25.02.13 인증헤더, JWT, OAuth([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-13.md))
+25.02.13 인증헤더, JWT, OAuth([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-13.md))  
 25.02.14 JWT의 탈취([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-14.md))
 
 ### [2월 셋째주, 3주차]
-25.02.17 쿠키, 세션([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-17.md))
-25.02.18 웹 소켓([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-18.md))
+25.02.17 쿠키, 세션([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-17.md))  
+25.02.18 웹 소켓([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-18.md))  
+25.02.19 JS 응용([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-19.md))  
+25.02.20 Promise, async/await, JS엔진([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-20.md))
