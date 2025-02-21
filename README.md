@@ -19,4 +19,7 @@
 25.02.17 쿠키, 세션([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-17.md))  
 25.02.18 웹 소켓([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-18.md))  
 25.02.19 JS 응용([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-19.md))  
-25.02.20 Promise, async/await, JS엔진([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-20.md))
+25.02.20 Promise, async/await, JS엔진([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-20.md))  
+25.02.21 프로그래밍 패러다임, 리플로우, 리페인트([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-21.md))
+
+### [2월 넷째주, 4주차] 
