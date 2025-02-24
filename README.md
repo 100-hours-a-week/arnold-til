@@ -23,3 +23,4 @@
 25.02.21 프로그래밍 패러다임, 리플로우, 리페인트([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-21.md))
 
 ### [2월 넷째주, 4주차] 
+25.02.24 실행 컨텍스트, 스코프, 클로저([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-24.md))
