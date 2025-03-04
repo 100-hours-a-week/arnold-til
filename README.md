@@ -24,3 +24,6 @@
 
 ### [2월 넷째주, 4주차] 
 25.02.24 실행 컨텍스트, 스코프, 클로저([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Feb/2025-02-24.md))
+
+### [3월 첫째주, 5주차]
+25.03.04 DB, 정규화, SQL, ERD([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-04.md))  
