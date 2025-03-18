@@ -32,3 +32,6 @@
 
 ### [3월 둘째주, 6주차]
 25.03.10 Bean, IoC, DI([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-10.md))
+
+### [3월 셋째주, 7주차]
+25.03.18 JPA([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-18.md))
