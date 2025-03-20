@@ -35,3 +35,4 @@
 
 ### [3월 셋째주, 7주차]
 25.03.18 JPA([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-18.md))
+25.03.19 JPA 캐시, 매핑 전략([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-19.md))
