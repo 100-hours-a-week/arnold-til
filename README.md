@@ -37,4 +37,7 @@
 25.03.18 JPA([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-18.md))  
 25.03.19 JPA 캐시, 매핑 전략([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-19.md))  
 25.03.20 N+1, QueryDSL([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-20.md))  
-25.03.21 AOP, IoC, DI([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-21.md))
+25.03.21 AOP, IoC, DI([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-21.md))  
+
+### [3월 넷째주, 8주차]
+25.03.24 CI/CD([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-24.md))
