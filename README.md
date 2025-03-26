@@ -40,4 +40,5 @@
 25.03.21 AOP, IoC, DI([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-21.md))  
 
 ### [3월 넷째주, 8주차]
-25.03.24 CI/CD([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-24.md))
+25.03.24 CI/CD([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-24.md))  
+25.03.25 NotBlank, ManyToOne, handler 클래스에 대하여([상세 내역 링크](https://github.com/100-hours-a-week/arnold-til/blob/main/Mar/2025-03-25.md))
